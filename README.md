@@ -24,7 +24,7 @@ I’m Khadija Ijaz, currently pursuing a Bachelor’s in Artificial Intelligence
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-with-Khadija/Code-with-Khadija/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-with-Khadija/Code-with-Khadija/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Code-with-Khadija/Code-with-Khadija/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
