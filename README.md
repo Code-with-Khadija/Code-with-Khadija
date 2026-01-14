@@ -17,4 +17,4 @@ Currently focused on **deepening my understanding of advanced AI systems**, agen
 
 **Fun Facts:**  
 ☕ I can drink coffee anytime (sleep is optional).  
-🗣️ I will absolutely yap about the latest AI & tech trends if you let me.  
+🗣️ Part time yapper if you let me.  
