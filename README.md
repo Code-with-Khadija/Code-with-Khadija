@@ -16,5 +16,5 @@ My go-to backend tools include **Python, Flask, FastApi**, and SQL-based databas
 Currently focused on **deepening my understanding of advanced AI systems**, agent workflows, and scalable AI solutions.
 
 **Fun Facts:**  
-☕ I can drink coffee anytime (sleep is optional).  
+☕ I can drink coffee anytime.
 🗣️ Part time yapper if you let me.  
